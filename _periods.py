@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 15:54:32 2024
-
-@author: carlos
-"""
 
 import datetime as dt
 from dateutil.relativedelta import relativedelta
